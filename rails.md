@@ -1,6 +1,8 @@
-# Capybara
+# Rails
 
-## ...print the HMTL of an element
+## Capybara
+
+### ...print the HMTL of an element
 
 ```ruby
 > puts element['outerHTML']
